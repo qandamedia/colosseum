@@ -1,6 +1,6 @@
 {
-  "name": "bull-arena",
-  "description": "An interactive UI dashboard for Bee Queue",
+  "name": "venice-colosseum",
+  "description": "An interactive UI dashboard for Venice BullMQ Workers",
   "main": "index.js",
   "author": "Mixmax <hello@mixmax.com>",
   "license": "MIT",
@@ -58,6 +58,6 @@
     "bee",
     "bullmq"
   ],
-  "repository": "https://github.com/bee-queue/arena.git",
+  "repository": "https://github.com/qandamedia/colosseum.git",
   "version": "3.29.5"
 }
